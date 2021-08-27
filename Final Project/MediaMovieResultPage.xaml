@@ -1,0 +1,104 @@
+﻿<Window x:Name="windowMediaResultPage" x:Class="Final_Project.MediaMovieResultPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Final_Project"
+        mc:Ignorable="d"
+        Title="WhereToWatch v2.0 - Result Page" Height="600" Width="730" ResizeMode="NoResize">
+    <Window.Background>
+        <SolidColorBrush Color="#232533"></SolidColorBrush>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition x:Name="emptyOne" Width="0"></ColumnDefinition>
+                <ColumnDefinition x:Name="poster" Width="185"></ColumnDefinition>
+                <ColumnDefinition x:Name="overview" Width="295"></ColumnDefinition>
+                <ColumnDefinition x:Name="streamAndType" Width="255"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="1" x:Name="PosterAndRankingSection">
+                <Grid.RowDefinitions>
+                    <RowDefinition x:Name="rdPosterArt" Height="234"></RowDefinition>
+                    <RowDefinition x:Name="rdLength" Height="60"></RowDefinition>
+                    <RowDefinition x:Name="rdRating" Height="100"></RowDefinition>
+                    <RowDefinition x:Name="rdRanking" Height="60"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Image x:Name="imgPosterArt" Source="http://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg" Width="163" Height="215" Margin="10" Grid.Row="0"/>
+                <TextBlock x:Name="tbRunTime" Foreground="White" Padding="30, 5" Background="#282A39" Margin="3" FontSize="34" FontWeight="Medium"  Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">1h 31m</TextBlock>
+                <TextBlock x:Name="tbRating" Foreground="#348FFF" Padding="35, 5" Background="#282A39" Margin="3" FontSize="44" FontWeight="Medium"  Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center">6.31</TextBlock>
+                <TextBlock x:Name="tbRanking" Foreground="#348FFF" Padding="18, 5" Background="#282A39" Margin="3" FontSize="44" FontWeight="Medium"  Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center">#1919</TextBlock>
+            </Grid>
+            
+            <Grid Grid.Column="2" x:Name="TitleOverviewSection">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="60" x:Name="rdTitle"></RowDefinition>
+                    <RowDefinition Height="30" x:Name="rdReleaseDate"></RowDefinition>
+                    <RowDefinition Height="36" x:Name="rdDescriptionTitle"></RowDefinition>
+                    <RowDefinition Height="220" x:Name="rdDescription"></RowDefinition>
+                    <RowDefinition Height="30" x:Name="rdCreatedByTitle"></RowDefinition>
+                    <RowDefinition Height="30" x:Name="rdCreatedByContent"></RowDefinition>
+                    <RowDefinition Height="30" x:Name="rdGenresTitle"></RowDefinition>
+                    <RowDefinition Height="Auto" x:Name="rdGenresContent"></RowDefinition>
+                    <RowDefinition Height="30" x:Name="rdTagsTitle"></RowDefinition>
+                    <RowDefinition Height="30" x:Name="rdTagsContent"></RowDefinition>
+                </Grid.RowDefinitions>
+                <TextBlock x:Name="tbTitle" Foreground="White"  FontSize="28"  Grid.Row="0" TextWrapping="Wrap" HorizontalAlignment="Left" VerticalAlignment="Center">Young Einstein</TextBlock>
+                <TextBlock x:Name="tbReleaseDate" Foreground="#348FFF" FontWeight="Medium" Padding="4" FontSize="20"  Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center">1988</TextBlock>
+                <TextBlock x:Name="tbOverviewTitle" Foreground="#7C889E" FontWeight="Medium" FontSize="16" Padding="4"  Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Bottom">Description</TextBlock>
+                <TextBlock x:Name="tbOverviewContent" Foreground="#7C889E" FontSize="12" Padding="4"  Grid.Row="3" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top">Albert Einstein is the son of a Tasmanian apple farmer, who discovers the secret of splitting the beer atom to put the bubbles back into beer. When Albert travels to Sydney to patent his invention he meets beatuiful French scientist Marie Curie, as well as several unscrupulous types who try to take advantage of the naive genius and his invention.</TextBlock>
+                <TextBlock x:Name="tbStudiosTitle" Foreground="#7C889E" FontWeight="Medium" Padding="4" FontSize="14"  Grid.Row="4" HorizontalAlignment="Left" VerticalAlignment="Center">Created By</TextBlock>
+                <TextBlock x:Name="tbStudiosContent" Foreground="#348FFF" FontWeight="Medium" FontSize="12" Padding="4"  Grid.Row="5" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top">Dax Productions | Lantis | Nomad | Ray</TextBlock>
+                <TextBlock x:Name="tbGenresTitle" Foreground="#7C889E" FontWeight="Medium" Padding="4" FontSize="14"  Grid.Row="6" HorizontalAlignment="Left" VerticalAlignment="Center">Genres</TextBlock>
+                <TextBlock x:Name="tbGenresContent" Foreground="#348FFF" Margin="2" FontWeight="Medium" FontSize="12" Padding="4, 4"  Grid.Row="7" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top">Comedy</TextBlock>
+                <TextBlock x:Name="tbTagsTitle" Foreground="#7C889E" FontWeight="Medium" Padding="4" FontSize="14"  Grid.Row="8" HorizontalAlignment="Left" VerticalAlignment="Center">Tags</TextBlock>
+                <TextBlock x:Name="tbTagsContent" Foreground="White" Margin="2" FontWeight="Medium" FontSize="12" Padding="4, 4"  Grid.Row="9" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top">
+                    <TextBlock.Text>-/-</TextBlock.Text>
+                </TextBlock>
+            </Grid>
+            
+            <Grid Grid.Column="3" x:Name="StreamButtonSection" Height="570.4" Width="224.8">
+                <Grid.RowDefinitions>
+                    <RowDefinition x:Name="rdTrailerButton" Height="55"></RowDefinition>
+                    <RowDefinition x:Name="rdType" Height="35"></RowDefinition>
+                    <RowDefinition x:Name="rdBroadcast" Height="35"></RowDefinition>
+                    <RowDefinition x:Name="rdSeasons" Height="35"></RowDefinition>
+                    <RowDefinition x:Name="rdEpisodes" Height="35"></RowDefinition>
+                    <RowDefinition Height="35"></RowDefinition>
+                    <RowDefinition Height="41"></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Button x:Name="btnTrailer" Foreground="White" Padding="32, 3" Margin="3" Background="#348FFF"  FontSize="30" FontWeight="Light"  Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Top" Content="Open Trailer" Width="215" Click="btnTrailer_Click"/>
+                <TextBlock x:Name="tbTypeTitle" Foreground="#7C889E" FontWeight="Medium" Padding="4" FontSize="14"  Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Top">Type:</TextBlock>
+                <TextBlock x:Name="tbTypeContent" Foreground="White" Margin="2" Background="#616161" FontWeight="Medium" FontSize="12" Padding="4, 4"  Grid.Row="1" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top">
+                    <TextBlock.Text>Movie</TextBlock.Text>
+                </TextBlock>
+                <TextBlock x:Name="tbLaunchTitle" Foreground="#7C889E" FontWeight="Medium" Padding="4" FontSize="14"  Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Top">Launch:</TextBlock>
+                <TextBlock x:Name="tbLaunchContent" Foreground="White" Margin="2" Background="#4CAF50" FontWeight="Medium" FontSize="12" Padding="4, 4"  Grid.Row="2" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top">
+                    <TextBlock.Text>Launch</TextBlock.Text>
+                </TextBlock>
+                <TextBlock x:Name="tbBroadcastTitle" Foreground="#7C889E" FontWeight="Medium" Padding="4" FontSize="14"  Grid.Row="3" HorizontalAlignment="Left" VerticalAlignment="Top">Broadcast:</TextBlock>
+                <TextBlock x:Name="tbBroadcastContent" Foreground="White" Margin="2" Background="#4CAF50" FontWeight="Medium" FontSize="12" Padding="4, 4"  Grid.Row="3" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top">
+                    <TextBlock.Text>Sundays</TextBlock.Text>
+                </TextBlock>
+                <TextBlock x:Name="tbSeasonsTitle" Foreground="#7C889E" FontWeight="Medium" Padding="4" FontSize="14"  Grid.Row="4" HorizontalAlignment="Left" VerticalAlignment="Top">Seasons</TextBlock>
+                <TextBlock x:Name="tbSeasonsContent" Foreground="White" Margin="2" Background="#616161" FontWeight="Medium" FontSize="12" Padding="4, 4"  Grid.Row="4" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top">
+                    <TextBlock.Text>2</TextBlock.Text>
+                </TextBlock>
+                <TextBlock x:Name="tbEpisodesTitle"  Foreground="#7C889E" FontWeight="Medium" Padding="4" FontSize="14"  Grid.Row="5" HorizontalAlignment="Left" VerticalAlignment="Top">Episodes:</TextBlock>
+                <TextBlock x:Name="tbEpisodesContent" Foreground="White" Margin="2" Background="#616161" FontWeight="Medium" FontSize="12" Padding="4, 4"  Grid.Row="5" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top">
+                    <TextBlock.Text>2</TextBlock.Text>
+                </TextBlock>
+                <Button x:Name="btnAddToFavorites"  Foreground="White" Padding="40, 3" Margin="3" Background="#348FFF"  FontSize="20" FontWeight="Light"  Grid.Row="6" HorizontalAlignment="Center" VerticalAlignment="Top" Click="btnAddToFavorites_Click">Add To Favorites</Button>
+                <TextBlock x:Name="tbStreamOnTitle"  Foreground="#7C889E" FontWeight="Medium" Padding="4" FontSize="14"  Grid.Row="7" HorizontalAlignment="Left" VerticalAlignment="Top"></TextBlock>
+                <TextBlock x:Name="tbStreamOnContent" Foreground="White" Margin="2" Background="#4CAF50" FontWeight="Medium" FontSize="12" Padding="4, 4"  Grid.Row="7" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top"></TextBlock>
+                <Image x:Name="ImageStreamOnLogo" Source="{Binding ImageFilePath}" Width="50" Height="50" Margin="10" Grid.Row="8"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

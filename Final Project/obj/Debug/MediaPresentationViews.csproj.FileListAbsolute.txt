@@ -1,0 +1,111 @@
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\Final Project.exe.config
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\Final Project.exe
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\Final Project.pdb
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaPresentationViews.csprojAssemblyReference.cache
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MainWindow.g.cs
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\App.g.cs
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final Project_MarkupCompile.cache
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final Project_MarkupCompile.lref
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MainWindow.baml
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final Project.g.resources
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaPresentationViews.csproj.GenerateResource.cache
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaPresentationViews.csproj.CoreCompileInputs.cache
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final Project.exe
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final Project.pdb
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\HtmlAgilityPack.dll
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataAccess.dll
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataObjects.dll
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaLogicLayer.dll
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\Newtonsoft.Json.dll
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\TMDbLib.dll
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataAccess.pdb
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataAccess.dll.config
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataObjects.pdb
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataObjects.dll.config
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaLogicLayer.pdb
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaLogicLayer.dll.config
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\HtmlAgilityPack.pdb
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\HtmlAgilityPack.xml
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\Newtonsoft.Json.xml
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaPresentationViews.csproj.CopyComplete
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaAboutPage.g.cs
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaAboutPage.baml
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaMovieResultPage.g.cs
+D:\School\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaMovieResultPage.baml
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\Final Project.exe.config
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\Final Project.exe
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\Final Project.pdb
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\HtmlAgilityPack.dll
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataAccess.dll
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataObjects.dll
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaLogicLayer.dll
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\Newtonsoft.Json.dll
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\TMDbLib.dll
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataAccess.pdb
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataAccess.dll.config
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataObjects.pdb
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataObjects.dll.config
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaLogicLayer.pdb
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaLogicLayer.dll.config
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\HtmlAgilityPack.pdb
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\HtmlAgilityPack.xml
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\Newtonsoft.Json.xml
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaPresentationViews.csprojAssemblyReference.cache
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MainWindow.g.cs
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaAboutPage.g.cs
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaMovieResultPage.g.cs
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\App.g.cs
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final Project_MarkupCompile.cache
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final Project_MarkupCompile.lref
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MainWindow.baml
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaAboutPage.baml
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaMovieResultPage.baml
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final Project.g.resources
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaPresentationViews.csproj.GenerateResource.cache
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaPresentationViews.csproj.CoreCompileInputs.cache
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaPresentationViews.csproj.CopyComplete
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final Project.exe
+F:\2020\Fall\CIS-624-CRF02 (0318617) .NET Development II\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataAccess.dll
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataObjects.dll
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaLogicLayer.dll
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\TMDbLib.dll
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataAccess.pdb
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataAccess.dll.config
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataObjects.pdb
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaDataObjects.dll.config
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaLogicLayer.pdb
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\MediaLogicLayer.dll.config
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaPresentationViews.csproj.AssemblyReference.cache
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MainWindow.g.cs
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaAboutPage.g.cs
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaMovieResultPage.g.cs
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\App.g.cs
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final Project_MarkupCompile.lref
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MainWindow.baml
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaAboutPage.baml
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaMovieResultPage.baml
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final Project.g.resources
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaPresentationViews.csproj.GenerateResource.cache
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaPresentationViews.csproj.CoreCompileInputs.cache
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\MediaPresentationViews.csproj.CopyComplete
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Zach\Desktop\todo\2. .NET 2\Final Project\WhereToWatch v2.0\Final Project\Final Project\obj\Debug\Final Project.pdb

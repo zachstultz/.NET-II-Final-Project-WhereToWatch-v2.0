@@ -1,0 +1,32 @@
+﻿<Window x:Class="Final_Project.MediaAboutPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Final_Project"
+        mc:Ignorable="d"
+        Title="WhereToWatch v2.0 - About Page" Height="240" Width="485" ResizeMode="NoResize">
+    <Window.Background>
+        <SolidColorBrush Color="#232533"></SolidColorBrush>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"></RowDefinition>
+            <RowDefinition Height="45"></RowDefinition>
+            <RowDefinition Height="32"></RowDefinition>
+            <RowDefinition Height="35"></RowDefinition>
+            <RowDefinition Height="35"></RowDefinition>
+            <RowDefinition Height="29"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="1" Foreground="White" FontSize="35" VerticalAlignment="Center" HorizontalAlignment="Center">WhereToWatch for Windows</TextBlock>
+        <TextBlock Grid.Row="2" Foreground="White" FontWeight="Light" FontSize="25" VerticalAlignment="Top" HorizontalAlignment="Center">Version 2.0.0.0</TextBlock>
+        <TextBlock Grid.Row="3" Foreground="White" FontWeight="Light" FontSize="25" VerticalAlignment="Center" HorizontalAlignment="Center">Created by Zach Stultz.</TextBlock>
+        <TextBlock Grid.Row="4" Foreground="White" FontWeight="Light" FontSize="25" VerticalAlignment="Top" HorizontalAlignment="Center">GitHub: 
+            <Hyperlink x:Name="hlGithub" NavigateUri="https://github.com/zachstultz" Click="hlGithub_Click">https://github.com/zachstultz</Hyperlink>
+        </TextBlock>
+        <TextBlock Grid.Row="5" Foreground="White" FontWeight="Light" FontSize="25" VerticalAlignment="Top" HorizontalAlignment="Center">Email: 
+            <Hyperlink x:Name="hlEmail" Click="hlEmail_Click">zach-stultz@student.kirkwood.edu</Hyperlink>
+        </TextBlock>
+    </Grid>
+</Window>
